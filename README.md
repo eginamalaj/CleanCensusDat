@@ -1,4 +1,4 @@
-# Clean Census of Agriculture Data (1981-2016)
+# Clean Census of Agriculture Data (1981-2016) from Statistics Canada
 
 The code and data presented here are associated with the publication:
 
