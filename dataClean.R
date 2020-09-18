@@ -1,16 +1,18 @@
 #
 # ------------------------------------------------------------------------------------------------------
 #
-#
+# First published in
 # Spatio-temporal patterns in crops and agrochemicals in Canada over 35 years
-# Egina Malaj, Levi Freistadt, Christy A. Morrissey
+# Egina Malaj, Levi Freistadt, Christy A. Morrissey,  Frontiers in Environmental Science
 #
-# Published in Frontiers in Environmental Science
-# 
 # Last Update: 27-August-2020 
 #
 # Author: Egina Malaj,PhD
 # contact: eginamalaj@gmail.com
+#
+# All raw data is obrained from Statistics Canada, Census of Agriculture 1981-2016,https://www12.statcan.gc.ca/census-recensement/index-eng.cfm. 
+# Reproduced and distributed on an "as is" basis with the permission of Statistics Canada. 
+# Statistics Canada's open license can be found at: https://www.statcan.gc.ca/eng/reference/licence
 #
 # ------------------------------------------------------------------------------------------------------
 # Census of Agriculture Data Collection
@@ -513,7 +515,7 @@ cln1116<-spr1116%>%
 cens<-as.data.frame(rbind(db81_2,db86_2,db91_2,db96_2,db01_2,db06_2,cln1116))
 #
 # Save it 
-# save(cens, file="RData/censdat.RData")
+# save(cens, file="censdat.RData")
 #
 # ------------------------------------------------------------------------------------------------------
 #
