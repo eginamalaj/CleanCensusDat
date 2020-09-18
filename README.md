@@ -10,4 +10,4 @@ All raw data is obrained from: **Statistics Canada, Census of Agriculture 1981-2
 
 Final dataset (542,040 cells) was created by cleaning and formatting 80 raw tables (17,782,907 cells) included in this repository.
 
-Finla product is a 'censdat.RData' file that will be used for the analysis.
+Final product is a `censdat.RData` file that will be used for other analysis.
