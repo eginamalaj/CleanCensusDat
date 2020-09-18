@@ -8,4 +8,3 @@ The code and data presented here are associated with the publication:
 
 Frontiers in Environmental Science 2020 In Press
 
-Data files "rawData" and "CD" can be found: DOI
