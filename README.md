@@ -2,7 +2,7 @@
 
 The code and data presented here are associated with the publications:
 
-*Egina Malaj, Levi Freistadt, and Christy A. Morrissey* **Spatio-temporal patterns in crops and agrochemicals in Canada over 35 years**. Frontiers in Environmental Science 2020 In Press
+*Egina Malaj, Levi Freistadt, and Christy A. Morrissey* (2020) **Spatio-temporal patterns in crops and agrochemicals in Canada over 35 years**. Frontiers in Environmental Science  In Press
 
 *Egina Malaj, and Christy A. Morrissey* Insecticide use and landscape simplification. In preparation
 
