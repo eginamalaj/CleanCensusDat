@@ -8,11 +8,9 @@ The code and data presented here are associated with the publications:
 
 ## Data Sources
 
-All raw data is obrained from: **[Statistics Canada, Census of Agriculture 1981-2016](https://www12.statcan.gc.ca/census-recensement/index-eng.cfm)** Reproduced and distributed on an "as is" basis with the permission of Statistics Canada. Statistics Canada's open license can be found at: https://www.statcan.gc.ca/eng/reference/licence
+All raw data was obtained from: **[Statistics Canada, Census of Agriculture 1981-2016](https://www12.statcan.gc.ca/census-recensement/index-eng.cfm)** Reproduced and distributed on an "as is" basis with the permission of Statistics Canada. Statistics Canada's open license can be found at: https://www.statcan.gc.ca/eng/reference/licence
 
 ## Resulting Dataset
 
 Final dataset (542,040 cells) was created by cleaning and formatting 80 raw tables (17,782,907 cells) included in this repository. Final product is a `censdat.RData` file that will be used for other analysis.
 
-## Author
-Egina Malaj, Ph.D.
