@@ -12,5 +12,5 @@ All raw data was obtained from: **[Statistics Canada, Census of Agriculture 1981
 
 ## Resulting Dataset
 
-Final dataset (542,040 cells) was created by cleaning and formatting 80 raw tables (17,782,907 cells) included in this repository. Final product is a `censdat.RData` file that will be used for other analysis.
+Final dataset (542,040 cells) was created by cleaning and formatting 80 raw tables (17,782,907 cells) included in this repository. Final product is a `censdat.RData` file that will be used for other analyses.
 
